@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 text-right mb-4">
         <div class="d-flex justify-content-between">
-          <nuxt-link to="/" class="btn btn-info">Home</nuxt-link>
+          <nuxt-link to="/" class="btn btn-info">Go Home</nuxt-link>
         </div>
         <div class="d-flex justify-content-between">
           <h3>La Recipes</h3>
